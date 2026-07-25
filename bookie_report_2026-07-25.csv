@@ -1,0 +1,11 @@
+Sport,Matchup,Time_UTC,Market,Bet_On,DK_Odds,Implied_%,Est_True_%,Edge_%
+MLS,New England Revolution vs Atlanta United FC,2026-07-25T23:30,H2H,New England Revolution (110),110,47.6,79.8,32.13
+MLS,Philadelphia Union vs Seattle Sounders FC,2026-07-25T23:30,H2H,Seattle Sounders FC (265),265,27.4,57.8,30.35
+MLS,Minnesota United FC vs Vancouver Whitecaps FC,2026-07-26T00:30,H2H,Minnesota United FC (225),225,30.8,57.2,26.48
+NFL,Miami Dolphins vs Kansas City Chiefs,2026-09-27T17:00,H2H,Miami Dolphins (280),280,26.3,52.1,25.8
+MLS,San Jose Earthquakes vs LA Galaxy,2026-07-26T02:30,H2H,San Jose Earthquakes (-120),-120,54.5,80.0,25.45
+MLS,New York Red Bulls vs Charlotte FC,2026-07-25T22:30,H2H,New York Red Bulls (120),120,45.5,70.4,24.92
+NFL,Kansas City Chiefs vs Denver Broncos,2026-09-15T00:15,H2H,Denver Broncos (136),136,42.4,66.3,23.94
+NFL,Kansas City Chiefs vs Indianapolis Colts,2026-09-21T00:20,H2H,Indianapolis Colts (230),230,30.3,54.2,23.92
+MLS,New York City FC vs Chicago Fire,2026-07-25T23:30,H2H,New York City FC (160),160,38.5,61.5,23.04
+NHL,Carolina Hurricanes vs Florida Panthers,2026-09-29T21:10,SPREADS,Carolina Hurricanes -1.5 (190),190,34.5,56.9,22.45
